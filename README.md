@@ -68,7 +68,7 @@ If the problem is serious, consult a doctor as soon as possible.
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 The core matching logic uses Python's built-in [`difflib`](https://docs.python.org/3/library/difflib.html) module:
 
@@ -103,7 +103,7 @@ VITyarthi_AI&ML_Project/
 
 ---
 
-## 🛠️ Extending the Project
+##  Extending the Project
 
 Want to add more symptoms? Simply add entries to the `medical_kb` dictionary in this format:
 
