@@ -1,6 +1,6 @@
 # 💊 AI Medicine Recommender
 
-A lightweight, AI-powered command-line tool that recommends over-the-counter (OTC) medications based on your described symptoms — no internet connection or external libraries required.
+A lightweight, AI-powered command-line tool that recommends over-the-counter (OTC) medications based on your described symptoms - no internet connection or external libraries required.
 
 ---
 
@@ -22,7 +22,7 @@ You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and
 ### Prerequisites
 
 - Python **3.6 or higher**
-- No third-party packages needed — uses only Python's standard library
+- No third-party packages needed - uses only Python's standard library
 
 ### Installation
 
@@ -30,7 +30,7 @@ You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and
   
 2. **Run the script directly:**
   
-That's it — no `pip install`, no virtual environment setup required.
+That's it - no `pip install`, no virtual environment setup required.
 
 ---
 
@@ -64,7 +64,7 @@ DISCLAIMER: This is not a substitute for professional medical advice.
 If the problem is serious, consult a doctor as soon as possible.
 ```
 
-> ✅ Notice that even with the typo "headche", the AI correctly identifies "Headache" — thanks to fuzzy matching.
+> ✅ Notice that even with the typo "headche", the AI correctly identifies "Headache" - thanks to fuzzy matching.
 
 ---
 
