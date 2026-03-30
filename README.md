@@ -76,9 +76,9 @@ The core matching logic uses Python's built-in [`difflib`](https://docs.python.o
 difflib.get_close_matches(user_query.title(), self.symptoms, n=1, cutoff=0.4)
 ```
 
-- **`user_query.title()`** — normalizes input to title case for consistent matching
-- **`n=1`** — returns only the single best match
-- **`cutoff=0.4`** — minimum similarity ratio; low enough to handle typos, high enough to avoid false matches
+- **`user_query.title()`** - normalizes input to title case for consistent matching
+- **`n=1`** - returns only the single best match
+- **`cutoff=0.4`** - minimum similarity ratio; low enough to handle typos, high enough to avoid false matches
 
 The knowledge base (`medical_kb`) is a Python dictionary with 30+ conditions mapped to their recommended medications and descriptions.
 
