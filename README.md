@@ -28,7 +28,7 @@ You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/VITyarthi_AI&ML_Project.git
+   git clone https://github.com/priyansh1404/VITyarthi_AI&ML_Project.git
    cd VITyarthi_AI&ML_Project
    ```
 
