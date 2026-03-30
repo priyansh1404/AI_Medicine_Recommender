@@ -9,15 +9,15 @@ A lightweight, AI-powered command-line tool that recommends over-the-counter (OT
 You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and the assistant intelligently matches it to a known condition using fuzzy string matching, then suggests an appropriate OTC medication along with a brief explanation.
 
 **Covered Categories:**
-- 🫁 Respiratory & Cold
-- 🍽️ Digestive System
-- 🩹 Skin & First Aid
-- 👁️ Eye & Ear Care
-- 💢 Pain & General
+-  Respiratory & Cold
+-  Digestive System
+-  Skin & First Aid
+-  Eye & Ear Care
+-  Pain & General
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -27,16 +27,9 @@ You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and
 ### Installation
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/priyansh1404/VITyarthi_AI&ML_Project.git
-   cd VITyarthi_AI&ML_Project
-   ```
-
+  
 2. **Run the script directly:**
-   ```bash
-   python medicine_recommender.py
-   ```
-
+  
 That's it — no `pip install`, no virtual environment setup required.
 
 ---
