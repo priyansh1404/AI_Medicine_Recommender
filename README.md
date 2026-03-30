@@ -28,13 +28,10 @@ You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/ai-medicine-recommender.git
-   cd ai-medicine-recommender
    ```
 
 2. **Run the script directly:**
    ```bash
-   python medicine_recommender.py
    ```
 
 That's it — no `pip install`, no virtual environment setup required.
