@@ -4,7 +4,7 @@ A lightweight, AI-powered command-line tool that recommends over-the-counter (OT
 
 ---
 
-## 📌 What It Does
+## What It Does ?
 
 You type in a symptom (e.g., *"headache"*, *"loose motion"*, *"dry cough"*), and the assistant intelligently matches it to a known condition using fuzzy string matching, then suggests an appropriate OTC medication along with a brief explanation.
 
@@ -34,7 +34,7 @@ That's it - no `pip install`, no virtual environment setup required.
 
 ---
 
-## 🖥️ How to Use
+## How to Use:-
 
 Once you run the script, you'll see:
 
@@ -64,7 +64,7 @@ DISCLAIMER: This is not a substitute for professional medical advice.
 If the problem is serious, consult a doctor as soon as possible.
 ```
 
-> ✅ Notice that even with the typo "headche", the AI correctly identifies "Headache" - thanks to fuzzy matching.
+> Notice that even with the typo "headche", the AI correctly identifies "Headache" - thanks to fuzzy matching.
 
 ---
 
@@ -84,7 +84,7 @@ The knowledge base (`medical_kb`) is a Python dictionary with 30+ conditions map
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 VITyarthi_AI&ML_Project/
@@ -95,7 +95,7 @@ VITyarthi_AI&ML_Project/
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 > This tool is intended for **educational and informational purposes only**.  
 > It is **not** a substitute for professional medical advice, diagnosis, or treatment.  
